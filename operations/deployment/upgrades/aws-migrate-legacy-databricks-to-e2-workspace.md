@@ -13,7 +13,7 @@ All new accounts are created on the E2 platform. Sign up using your service acco
 | databricksE2Enabled       | yes/no, enables E2 resources to be created                                                                                                             | yes                                 |
 | databricksAccountId       | Main account id, found by going to [https://accounts.cloud.databricks.com/workspaces](https://accounts.cloud.databricks.com/workspaces) and logging in | 638396f1-xxxx-xxxx-9aab-ddf61xxxxxx |
 | databricksAccountUser     | Email used to sign up for the E2 account                                                                                                               | databricksmaster@westmonroe.com     |
-| databricksAccountPassword | Password used to sign up for the E2 account (mark as sensitive)                                                                                        | password123                         |
+| databricksAccountP        | P used to sign up for the E2 account (mark as sensitive)                                                                                               |                                     |
 
 ### Run Terraform
 
